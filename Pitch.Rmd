@@ -1,0 +1,29 @@
+---
+title: "Developing Data Products Course Project"
+author: "Nathan Young"
+date: "`r Sys.Date()`"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About Course Project
+For the final week of the Developing Data Products course on Coursera, I was asked to create a Shiny app using functionality we learned about in the course. I chose to submit a Mandelbrot set viewer I created earlier in the course to learn about the different functionality of Shiny apps including reactivity, interactive plots, and updating based on user input.
+
+## The Mandelbrot Set
+Describe the mandelbrot set
+
+## Slide with R Output
+
+```{r cars, echo = TRUE}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
+

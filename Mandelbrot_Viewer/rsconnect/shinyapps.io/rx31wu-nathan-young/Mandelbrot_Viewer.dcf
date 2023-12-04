@@ -1,0 +1,12 @@
+name: Mandelbrot_Viewer
+title: Mandelbrot_Viewer
+username: rx31wu-nathan-young
+account: rx31wu-nathan-young
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10558046
+bundleId: 8002540
+url: https://rx31wu-nathan-young.shinyapps.io/Mandelbrot_Viewer/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
